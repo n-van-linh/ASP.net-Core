@@ -1,0 +1,5 @@
+D:\HocTap\ASP.net\LINH\obj\Debug\net8.0\LINH.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocTap\ASP.net\LINH\obj\Debug\net8.0\LINH.AssemblyInfoInputs.cache
+D:\HocTap\ASP.net\LINH\obj\Debug\net8.0\LINH.AssemblyInfo.cs
+D:\HocTap\ASP.net\LINH\obj\Debug\net8.0\LINH.csproj.CoreCompileInputs.cache
+D:\HocTap\ASP.net\LINH\obj\Debug\net8.0\LINH.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "9k2N8aGJIpZZx0ailXy3I6NsirOJeQlhSek0MLjKkfA=",
+  "Source": "01_empty",
+  "BasePath": "_content/01_empty",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "01_empty\\wwwroot",
+      "Source": "01_empty",
+      "ContentRoot": "D:\\HocTap\\ASP.net\\Chap02_DemoRouting\\01_empty\\wwwroot\\",
+      "BasePath": "_content/01_empty",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\HocTap\\ASP.net\\Chap02_DemoRouting\\01_empty\\wwwroot\\detail.html",
+      "SourceId": "01_empty",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\HocTap\\ASP.net\\Chap02_DemoRouting\\01_empty\\wwwroot\\",
+      "BasePath": "_content/01_empty",
+      "RelativePath": "detail.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\detail.html"
+    },
+    {
+      "Identity": "D:\\HocTap\\ASP.net\\Chap02_DemoRouting\\01_empty\\wwwroot\\home.html",
+      "SourceId": "01_empty",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\HocTap\\ASP.net\\Chap02_DemoRouting\\01_empty\\wwwroot\\",
+      "BasePath": "_content/01_empty",
+      "RelativePath": "home.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\home.html"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HocTap\\ASP.net\\Chap02_DemoRouting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HocTap\\ASP.net\\Chap02_DemoRouting\\01_empty\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:01_empty\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HocTap\\ASP.net\\Chap02_DemoRouting\\01_empty\\wwwroot\\detail.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:01_empty\\wwwroot\\detail.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HocTap\\ASP.net\\Chap02_DemoRouting\\01_empty\\wwwroot\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:01_empty\\wwwroot\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HocTap\\ASP.net\\Chap02_DemoRouting\\01_empty\\01_empty.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:01_empty\\01_empty.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 561,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "detail.html",
+              "DocumentMoniker": "D:\\HocTap\\ASP.net\\Chap02_DemoRouting\\01_empty\\wwwroot\\detail.html",
+              "RelativeDocumentMoniker": "01_empty\\wwwroot\\detail.html",
+              "ToolTip": "D:\\HocTap\\ASP.net\\Chap02_DemoRouting\\01_empty\\wwwroot\\detail.html",
+              "RelativeToolTip": "01_empty\\wwwroot\\detail.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-05T07:29:56.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "home.html",
+              "DocumentMoniker": "D:\\HocTap\\ASP.net\\Chap02_DemoRouting\\01_empty\\wwwroot\\home.html",
+              "RelativeDocumentMoniker": "01_empty\\wwwroot\\home.html",
+              "ToolTip": "D:\\HocTap\\ASP.net\\Chap02_DemoRouting\\01_empty\\wwwroot\\home.html",
+              "RelativeToolTip": "01_empty\\wwwroot\\home.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-05T06:42:54.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HocTap\\ASP.net\\Chap02_DemoRouting\\01_empty\\Program.cs",
+              "RelativeDocumentMoniker": "01_empty\\Program.cs",
+              "ToolTip": "D:\\HocTap\\ASP.net\\Chap02_DemoRouting\\01_empty\\Program.cs",
+              "RelativeToolTip": "01_empty\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:02:44.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "01_empty.csproj",
+              "DocumentMoniker": "D:\\HocTap\\ASP.net\\Chap02_DemoRouting\\01_empty\\01_empty.csproj",
+              "RelativeDocumentMoniker": "01_empty\\01_empty.csproj",
+              "ToolTip": "D:\\HocTap\\ASP.net\\Chap02_DemoRouting\\01_empty\\01_empty.csproj",
+              "RelativeToolTip": "01_empty\\01_empty.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-05T06:02:43.363Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 39,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
